@@ -1,7 +1,5 @@
 ### Hi 👋 My name is JA$ PREET,
-### Profile visits
 
-<img src="https://komarev.com/ghpvc/?username=thebugbounter&color=brightgreen" alt="watching_count" />
 <!--
 **thebugbounter/thebugbounter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,4 +42,6 @@ Here are some ideas to get you started:
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+### Profile visits
 
+<img src="https://komarev.com/ghpvc/?username=thebugbounter&color=brightgreen" alt="watching_count" />
