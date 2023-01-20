@@ -1,8 +1,7 @@
+### Hi 👋 My name is JA$ PREET,
 ### Profile visits
 
 <img src="https://komarev.com/ghpvc/?username=thebugbounter&color=brightgreen" alt="watching_count" />
-### Hi 👋 My name is JA$ PREET,
-
 <!--
 **thebugbounter/thebugbounter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
