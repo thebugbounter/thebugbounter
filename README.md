@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for help with How docker works
 
-💬 Ask me about Programming
+💬 Ask me about Programming  
 
-📫 How to reach me:  DM on [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=RED" />](https://instagram.com/thebugbounter "DM on twitter")
+📫 How to reach me:  DM on [<img src="https://img.shields.io/badge/-Instagram-red" />](https://instagram.com/thebugbounter "DM on Instagram")
 
 ### Connect me over social media
 
