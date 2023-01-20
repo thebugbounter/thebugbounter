@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebugbounter&theme=tokyonight" alt="mystreak"/>
 
-#### Contribution graph
+#### Contribution Graph
 
 ![Snake animation](https://github.com/rahul05ranjan/rahul05ranjan/blob/output/github-contribution-snake.svg)
 
