@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### My github stats
 
-![JAS PREET's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul05ranjan&show_icons=true&theme=radical)
+![JAS PREET's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebugbounter&show_icons=true&theme=radical)
 
 #### Total contribution
 
