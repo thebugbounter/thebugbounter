@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 #### Contribution graph
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=rahul05ranjan&theme=react-dark&hide_border=true&area=true)
-
 ![Snake animation](https://github.com/rahul05ranjan/rahul05ranjan/blob/output/github-contribution-snake.svg)
 
 #### Github trophy
