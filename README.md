@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### My github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thebugbounter&theme=dark)](https://git.io/streak-stats)
+![SIMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebugbounter&show_icons=true&theme=radical)
 
 #### Total contribution
 
