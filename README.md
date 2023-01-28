@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 #### Contribution Graph
 
 ![Snake animation](https://github.com/rahul05ranjan/rahul05ranjan/blob/output/github-contribution-snake.svg)
-###TryHackMe
-<script src="https://tryhackme.com/badge/1666376"></script>
+
 
 #### Github trophy
 
