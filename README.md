@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on Cyber Security and Full Stack
+🔭 I’m currently working on Cyber Security 
 
-🌱 I’m currently learning React JS and Hacking Tools 
+🌱 I’m currently learning AWS and Hacking Tools 
 
 👯 I’m looking to collaborate on Opensource projects
 
-🤔 I’m looking for help with How docker works
+🤔 I’m looking for help with How GPT-4 works
 
-💬 Ask me about Programming  
+💬 Ask me about Ethical Hacking 
 
 📫 How to reach me:  DM on [<img src="https://img.shields.io/badge/-Instagram-red" />](https://instagram.com/thebugbounter "DM on Instagram")
 
