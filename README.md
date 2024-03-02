@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-# 👋 Hello, I'm [Your Name]!
-
 ## About Me
 
 🔭 Currently delving deep into the realms of penetration testing and vulnerability assessment.
@@ -30,6 +28,16 @@ Here are some of the tools and technologies I work with:
 - 💻 [Kali Linux](https://www.kali.org/): A Debian-based Linux distribution designed for digital forensics and penetration testing.
 - 🐍 [Python](https://www.python.org/): A versatile programming language often used in cybersecurity for scripting and automation.
 - 🕵️‍♂️ [Nessus](https://www.tenable.com/products/nessus): Widely-used vulnerability scanner for identifying vulnerabilities, configuration issues, and malware.
+- 🧰 [OWASP ZAP](https://www.zaproxy.org/): An open-source web application security scanner.
+- 🛠️ [Hashcat](https://hashcat.net/hashcat/): An advanced password recovery tool.
+- 🧲 [Snort](https://www.snort.org/): A powerful Intrusion Detection System (IDS).
+- 📡 [Aircrack-ng](https://www.aircrack-ng.org/): A network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker.
+- 🕷️ [SQLMap](https://github.com/sqlmapproject/sqlmap): An automatic SQL injection and database takeover tool.
+- 🛡️ [OpenVAS](https://www.openvas.org/): Open Vulnerability Assessment Scanner for comprehensive vulnerability scanning.
+- 🛑 [OSSEC](https://www.ossec.net/): An open-source Host-based Intrusion Detection System (HIDS).
+- 🌐 [Sublist3r](https://github.com/aboul3la/Sublist3r): A python tool designed to enumerate subdomains of websites.
+- 🌊 [Hydra](https://github.com/vanhauser-thc/thc-hydra): A password-cracking tool for online penetration testing.
+
 
 ## Let's Connect!
 
