@@ -1,20 +1,12 @@
 ### Hi 👋 My name is JAS PREET,
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71E&random=false&width=435&lines=Cyber+Security+Analyst;Penetration+Tester;DevOps+Engineer;Cloud+Architect+)](https://git.io/typing-svg)
 <!--
 **thebugbounter/thebugbounter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on Cyber Security 
 
-🌱 I’m currently learning AWS and Hacking Tools 
-
-👯 I’m looking to collaborate on Opensource projects
-
-🤔 I’m looking for help with How GPT-4 works
-
-💬 Ask me about Ethical Hacking 
 
 📫 How to reach me:  DM on [<img src="https://img.shields.io/badge/-Instagram-red" />](https://instagram.com/thebugbounter "DM on Instagram")
 
