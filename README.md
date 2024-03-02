@@ -41,14 +41,14 @@ Here are some of the tools and technologies I work with:
 
 ## Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/thebugbounter/)
-- Email: [jaspreetauthentic@gmail.com](mailto:jaspreetauthentic@gmail.com)
+-[LinkedIn](https://www.linkedin.com/in/thebugbounter/)
+- [Email](mailto:jaspreetauthentic@gmail.com)
 
 Feel free to reach out for collaboration, questions, or just to chat about cybersecurity and all things tech!
 
 ### Connect me over social media
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thebugbounter "Twitter") [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaspreet604/ "LinkedIn") 
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thebugbounter "Twitter") [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thebugbounter/ "LinkedIn") 
 
 ### My github stats
 
@@ -56,7 +56,7 @@ Feel free to reach out for collaboration, questions, or just to chat about cyber
 
 #### Total contribution
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thebugbounter&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thebugbounter&theme=midnight-purple" alt="mystreak"/>
 
 #### Contribution Graph
 
