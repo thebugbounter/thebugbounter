@@ -56,9 +56,5 @@ Feel free to reach out for collaboration, questions, or just to chat about cyber
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
 ### Profile visits
 [![](https://visitcount.itsvg.in/api?id=thebugbounter&icon=0&color=5)](https://visitcount.itsvg.in)
