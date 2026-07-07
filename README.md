@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=I'M+JASPREET+GREWAL;Offensive:+Penetration+Tester;Defensive:+SOC+Analyst;Infrastructure:+Cloud+Security;Automation:+DevSecOps+Engineer;Securing+the+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=I'M+JASPREET;Offensive:+Penetration+Tester;Defensive:+SOC+Analyst;Infrastructure:+Cloud+Security;Automation:+DevSecOps+Engineer;Securing+the+Full+Stack" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/OFFENSIVE-Red_Teaming-CC0000?style=for-the-badge&logo=target&logoColor=white" />
